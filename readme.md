@@ -1,3 +1,8 @@
+NicoCocq : Nicolas Cocq
+ddaninthe : Diego Daninthe
+Her0iik : Thomas Gianfalla
+
+
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
 ## Understanding the Spring Petclinic application with a few diagrams
